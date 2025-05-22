@@ -1,4 +1,9 @@
-.tudo{
-    background: #000000;
-background: linear-gradient(112deg,rgba(0, 0, 0, 1) 0%, rgba(79, 53, 32, 1) 50%, rgba(255, 247, 247, 1) 100%);
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+
+.tudo {
+    background: #695136;
+background: linear-gradient(201deg,rgba(105, 81, 54, 1) 20%, rgba(158, 136, 106, 1) 49%, rgba(171, 167, 166, 1) 84%, rgba(255, 255, 255, 1) 100%);
+}
+body {
+    font-family: "Yanone Kaffeesatz";
 }
