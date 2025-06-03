@@ -29,6 +29,7 @@ body.tudo {
     margin-bottom: 25px;
     padding: 15px;
     border-radius: 5px;
+    font-size: 30px;
 }
 
 .bebida:nth-child(2) {
